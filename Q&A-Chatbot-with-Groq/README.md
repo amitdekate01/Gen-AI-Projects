@@ -1,5 +1,9 @@
 Enhanced Q&A Chatbot with Groq
+
+
 Project Overview
+
+
 This project is an end-to-end Generative AI application featuring a Q&A chatbot. It is designed to demonstrate the power of real-time, low-latency AI responses by integrating the Groq API. The application uses a robust RAG (Retrieval-Augmented Generation) pipeline and a conversational memory agent to provide intelligent and context-aware answers.
 
 Key Features
