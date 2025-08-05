@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain_huggingface
+langchain-chroma
+beautifulsoup4
+bs4 
+langchain-groq
+ollama
+python-dotenv
+streamlit
